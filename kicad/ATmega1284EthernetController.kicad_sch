@@ -4707,8 +4707,8 @@
     (property "Datasheet" "~" (at 38.1 55.245 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 4b06caf7-f6b5-4cfa-aada-4f17d0977f7d))
     (pin "1" (uuid e066d00d-a844-4308-9bfa-f480a4d258c2))
+    (pin "2" (uuid 4b06caf7-f6b5-4cfa-aada-4f17d0977f7d))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -4783,8 +4783,8 @@
     (property "Datasheet" "~" (at 30.48 59.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid e9147035-ea65-460e-ba12-1f42cfd82018))
     (pin "1" (uuid e57890bc-be74-46be-817a-efc1a89559c6))
+    (pin "2" (uuid e9147035-ea65-460e-ba12-1f42cfd82018))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -4891,8 +4891,8 @@
     (property "Datasheet" "~" (at 221.615 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid a904cd09-7728-4d5f-9e1c-b3a4e38e6ada))
     (pin "1" (uuid 7495ea1c-3b6e-4feb-b5ea-6addce2c647a))
+    (pin "2" (uuid a904cd09-7728-4d5f-9e1c-b3a4e38e6ada))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -4942,8 +4942,8 @@
     (property "Datasheet" "~" (at 40.64 142.875 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid c5f390b3-d984-4ba9-8412-72f1d15a4779))
     (pin "1" (uuid e3a041c4-7cbd-424c-9279-656edb606471))
+    (pin "2" (uuid c5f390b3-d984-4ba9-8412-72f1d15a4779))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -4993,8 +4993,8 @@
     (property "Datasheet" "~" (at 196.85 120.015 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 1d990039-69e3-481a-8ed8-4894108c100d))
     (pin "1" (uuid 6d964310-8818-41fb-8bb1-8c1d83253ec8))
+    (pin "2" (uuid 1d990039-69e3-481a-8ed8-4894108c100d))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5196,16 +5196,16 @@
     (property "Datasheet" "~" (at 37.465 186.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "7" (uuid 9c8f5c22-4111-4ef2-a3b9-51a0879b50f4))
-    (pin "5" (uuid 6c6ccff6-0cf8-41a5-898c-0e6d6bed0d33))
-    (pin "3" (uuid 154e7eb3-dd8a-4278-9348-e6e9434dba5c))
-    (pin "8" (uuid 8888dbaf-828a-49d8-aec2-463ba5ed05e9))
-    (pin "6" (uuid a6122f58-1b2d-407c-be80-3f6b7e4c3450))
-    (pin "9" (uuid a2c0b46d-f457-4e58-a8f0-b09b774823cc))
-    (pin "10" (uuid e28bbb06-a1df-4a47-9fa6-d2ede57396b9))
-    (pin "4" (uuid 34228b19-c5b7-4c00-ab57-817a34ca81ff))
     (pin "1" (uuid 916cac27-63a3-42c9-9457-44a491526e0b))
+    (pin "10" (uuid e28bbb06-a1df-4a47-9fa6-d2ede57396b9))
     (pin "2" (uuid d375ed7c-bde6-45c7-83f8-f890e4cf6475))
+    (pin "3" (uuid 154e7eb3-dd8a-4278-9348-e6e9434dba5c))
+    (pin "4" (uuid 34228b19-c5b7-4c00-ab57-817a34ca81ff))
+    (pin "5" (uuid 6c6ccff6-0cf8-41a5-898c-0e6d6bed0d33))
+    (pin "6" (uuid a6122f58-1b2d-407c-be80-3f6b7e4c3450))
+    (pin "7" (uuid 9c8f5c22-4111-4ef2-a3b9-51a0879b50f4))
+    (pin "8" (uuid 8888dbaf-828a-49d8-aec2-463ba5ed05e9))
+    (pin "9" (uuid a2c0b46d-f457-4e58-a8f0-b09b774823cc))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5231,8 +5231,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 37bfcb54-6c04-4a33-9bed-c20e5fb13552))
-    (pin "MP" (uuid 72fac711-a4ac-457b-9ace-2196c3d5c181))
     (pin "2" (uuid 9c4ed68d-5ca7-4893-875f-2499120bfa1e))
+    (pin "MP" (uuid 72fac711-a4ac-457b-9ace-2196c3d5c181))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5257,8 +5257,8 @@
     (property "Datasheet" "~" (at 202.565 84.455 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 8d43c50a-de80-41b3-948b-4ee8cedd5a75))
     (pin "1" (uuid bcd4e38c-8299-40d0-ac03-14b15b9c4b4b))
+    (pin "2" (uuid 8d43c50a-de80-41b3-948b-4ee8cedd5a75))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5283,8 +5283,8 @@
     (property "Datasheet" "~" (at 107.95 89.535 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid af95e5ff-7951-48f5-b5ed-25bf46c93c98))
     (pin "1" (uuid e62ad2f8-551d-4fdc-84d1-51696f1aa26f))
+    (pin "2" (uuid af95e5ff-7951-48f5-b5ed-25bf46c93c98))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5309,34 +5309,34 @@
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/devicedoc/39662e.pdf" (at 170.18 104.775 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "9" (uuid 5fa24cad-6766-4dc7-9f62-2d078f90cfbf))
-    (pin "25" (uuid 689776eb-4e34-49c7-a5b8-fb9889ff4603))
-    (pin "17" (uuid b9b1b3dc-fa8c-4b4c-b006-ad6dd5d68421))
-    (pin "28" (uuid ebc67bb3-df72-438c-9fee-327c8666ae0b))
     (pin "1" (uuid 23a51606-81df-431c-8bdf-657dc7b6dcff))
+    (pin "10" (uuid dec9ffd8-e791-4ec4-9ddf-e25a4054610f))
     (pin "11" (uuid 0e2ab61e-6cf4-4b80-bc1a-cfda833d0493))
-    (pin "7" (uuid 76038c3a-3f9b-478d-978e-49061a3f8b40))
-    (pin "27" (uuid cf3fd8d1-9539-4531-aae7-4c557eead708))
-    (pin "3" (uuid 840085c2-59f1-477a-9993-9830a1fabbfa))
-    (pin "15" (uuid 1e3d0f30-a2f8-450e-b8a3-279145ab729b))
-    (pin "19" (uuid ddeb9c11-da61-42ab-962c-a9275f794db5))
+    (pin "12" (uuid caeb0e9c-3572-447a-9960-a8123c71a640))
+    (pin "13" (uuid b7591041-9411-48b5-bfb9-ce361743c184))
     (pin "14" (uuid 8a96c077-dc6a-4f4d-8cc8-df22a1452ee4))
-    (pin "6" (uuid f30c2061-43ad-4595-aa09-c4720d9f5b08))
+    (pin "15" (uuid 1e3d0f30-a2f8-450e-b8a3-279145ab729b))
+    (pin "16" (uuid 56f9ecb2-e52a-4cbc-bc8a-af7839d10c4b))
+    (pin "17" (uuid b9b1b3dc-fa8c-4b4c-b006-ad6dd5d68421))
+    (pin "18" (uuid afa5c0a4-acd8-410e-9d0b-ad5501e495eb))
+    (pin "19" (uuid ddeb9c11-da61-42ab-962c-a9275f794db5))
+    (pin "2" (uuid 9bc85923-5c28-4581-9727-9fc6b17ccb89))
+    (pin "20" (uuid 2fae1264-96da-411e-bd19-6fbee8f93d97))
     (pin "21" (uuid b1355a9a-86d4-473a-948b-c3135a0a27bf))
     (pin "22" (uuid 993d4ed1-92c6-4050-9309-bb653668d3ac))
-    (pin "8" (uuid 8b0a0e77-4e69-48d0-9676-24939d61cd35))
-    (pin "13" (uuid b7591041-9411-48b5-bfb9-ce361743c184))
     (pin "23" (uuid 4381e578-ca6d-4a42-be35-83dfd1d083d5))
-    (pin "20" (uuid 2fae1264-96da-411e-bd19-6fbee8f93d97))
-    (pin "4" (uuid f34fea48-d436-4208-95f2-7ca0bce70ea0))
-    (pin "12" (uuid caeb0e9c-3572-447a-9960-a8123c71a640))
-    (pin "2" (uuid 9bc85923-5c28-4581-9727-9fc6b17ccb89))
-    (pin "18" (uuid afa5c0a4-acd8-410e-9d0b-ad5501e495eb))
     (pin "24" (uuid 5c7f3b7d-7d10-4490-831c-9cd781fb7e9b))
+    (pin "25" (uuid 689776eb-4e34-49c7-a5b8-fb9889ff4603))
     (pin "26" (uuid 6c732288-ee03-4576-ae2a-5a1998fd236d))
+    (pin "27" (uuid cf3fd8d1-9539-4531-aae7-4c557eead708))
+    (pin "28" (uuid ebc67bb3-df72-438c-9fee-327c8666ae0b))
+    (pin "3" (uuid 840085c2-59f1-477a-9993-9830a1fabbfa))
+    (pin "4" (uuid f34fea48-d436-4208-95f2-7ca0bce70ea0))
     (pin "5" (uuid 77d5ea18-ad5c-428d-ad28-794cff6bf304))
-    (pin "10" (uuid dec9ffd8-e791-4ec4-9ddf-e25a4054610f))
-    (pin "16" (uuid 56f9ecb2-e52a-4cbc-bc8a-af7839d10c4b))
+    (pin "6" (uuid f30c2061-43ad-4595-aa09-c4720d9f5b08))
+    (pin "7" (uuid 76038c3a-3f9b-478d-978e-49061a3f8b40))
+    (pin "8" (uuid 8b0a0e77-4e69-48d0-9676-24939d61cd35))
+    (pin "9" (uuid 5fa24cad-6766-4dc7-9f62-2d078f90cfbf))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5513,8 +5513,8 @@
     (property "Datasheet" "~" (at 133.35 117.475 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid c8f219b6-1e05-4400-9e22-f61a49c22aa6))
     (pin "1" (uuid 915abae6-30f4-4ba3-bcdb-a977e77d0f68))
+    (pin "2" (uuid c8f219b6-1e05-4400-9e22-f61a49c22aa6))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5539,8 +5539,8 @@
     (property "Datasheet" "~" (at 107.95 97.155 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid bb6b4a8d-03a6-4f38-a6fe-c8f659a90625))
     (pin "1" (uuid c4979e3d-2232-4f71-b940-a78f5d7bd0ec))
+    (pin "2" (uuid bb6b4a8d-03a6-4f38-a6fe-c8f659a90625))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5615,8 +5615,8 @@
     (property "Datasheet" "~" (at 40.64 127.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid bb06b096-bc49-48cf-ba1d-7369bcc7afb9))
     (pin "1" (uuid 959e3b92-f9e7-4613-9faa-c3cd5fad0fc1))
+    (pin "2" (uuid bb06b096-bc49-48cf-ba1d-7369bcc7afb9))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5641,20 +5641,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32" (at 132.08 84.455 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid e885684f-304f-4797-8782-b765172933bf))
+    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af69))
+    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df77))
+    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f683))
+    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830d))
+    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3685))
+    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0403))
+    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a455))
+    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded6))
+    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fccf))
     (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f0))
+    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595474))
     (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881d9e))
     (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c29))
-    (pin "1" (uuid e885684f-304f-4797-8782-b765172933bf))
-    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830d))
-    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af69))
-    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0403))
-    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3685))
-    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded6))
-    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f683))
-    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fccf))
-    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a455))
-    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595474))
-    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df77))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5729,8 +5729,8 @@
     (property "Datasheet" "~" (at 107.95 104.775 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 6450cce6-db09-4323-ad06-8cf66ed14871))
     (pin "1" (uuid 26471990-ccb2-43d4-9182-b334499073d5))
+    (pin "2" (uuid 6450cce6-db09-4323-ad06-8cf66ed14871))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5805,20 +5805,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32" (at 233.68 29.845 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f0))
-    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881d9e))
-    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c29))
-    (pin "1" (uuid e885684f-304f-4797-8782-b765172933bf))
-    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830d))
-    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af69))
-    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0403))
-    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3685))
-    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded6))
-    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f683))
-    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fccf))
-    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a455))
-    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595474))
-    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df77))
+    (pin "1" (uuid e885684f-304f-4797-8782-b765172933c0))
+    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af6a))
+    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df78))
+    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f684))
+    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830e))
+    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3686))
+    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0404))
+    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a456))
+    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded7))
+    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fcd0))
+    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f1))
+    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595475))
+    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881d9f))
+    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c2a))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5843,8 +5843,8 @@
     (property "Datasheet" "~" (at 214.63 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 8b31dd2e-fa24-413e-b165-255eec2ce8b3))
     (pin "1" (uuid abd98657-3be0-4a48-88cd-042b0965c3fa))
+    (pin "2" (uuid 8b31dd2e-fa24-413e-b165-255eec2ce8b3))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5894,20 +5894,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32" (at 233.68 46.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f0))
-    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881d9e))
-    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c29))
-    (pin "1" (uuid e885684f-304f-4797-8782-b765172933bf))
-    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830d))
-    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af69))
-    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0403))
-    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3685))
-    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded6))
-    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f683))
-    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fccf))
-    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a455))
-    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595474))
-    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df77))
+    (pin "1" (uuid e885684f-304f-4797-8782-b765172933c1))
+    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af6b))
+    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df79))
+    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f685))
+    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830f))
+    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3687))
+    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0405))
+    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a457))
+    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded8))
+    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fcd1))
+    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f2))
+    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595476))
+    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881da0))
+    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c2b))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -5983,16 +5983,16 @@
     (property "Datasheet" "~" (at 73.025 186.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "7" (uuid 9494ac61-e27d-4128-a4dd-50bf050279f3))
-    (pin "5" (uuid ce1f5f85-87f9-48b9-8e5e-d84075bbc7f1))
-    (pin "3" (uuid 106efafd-6c00-45a1-a07a-c16763606632))
-    (pin "8" (uuid 084256e6-2e56-41fb-a480-86eb8b8f9d2b))
-    (pin "6" (uuid 30d435e7-44c8-4592-8f52-76c684e2f5f2))
-    (pin "9" (uuid 9a2afbcd-caff-47c0-9375-52781e1626d6))
-    (pin "10" (uuid 9ad2bc3b-b234-4d35-a396-c36e62e5e30d))
-    (pin "4" (uuid 3e754af5-9796-489c-814d-c96719c002a1))
     (pin "1" (uuid 869e8faa-8f6b-47f6-8079-cb867bda53a6))
+    (pin "10" (uuid 9ad2bc3b-b234-4d35-a396-c36e62e5e30d))
     (pin "2" (uuid 933f25fe-2e8f-4467-b6c5-62a13db1c9a0))
+    (pin "3" (uuid 106efafd-6c00-45a1-a07a-c16763606632))
+    (pin "4" (uuid 3e754af5-9796-489c-814d-c96719c002a1))
+    (pin "5" (uuid ce1f5f85-87f9-48b9-8e5e-d84075bbc7f1))
+    (pin "6" (uuid 30d435e7-44c8-4592-8f52-76c684e2f5f2))
+    (pin "7" (uuid 9494ac61-e27d-4128-a4dd-50bf050279f3))
+    (pin "8" (uuid 084256e6-2e56-41fb-a480-86eb8b8f9d2b))
+    (pin "9" (uuid 9a2afbcd-caff-47c0-9375-52781e1626d6))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6067,20 +6067,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32" (at 132.08 102.235 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f0))
-    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881d9e))
-    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c29))
-    (pin "1" (uuid e885684f-304f-4797-8782-b765172933bf))
-    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830d))
-    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af69))
-    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0403))
-    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3685))
-    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded6))
-    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f683))
-    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fccf))
-    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a455))
-    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595474))
-    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df77))
+    (pin "1" (uuid e885684f-304f-4797-8782-b765172933c2))
+    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af6c))
+    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df7a))
+    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f686))
+    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f88310))
+    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3688))
+    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0406))
+    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a458))
+    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded9))
+    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fcd2))
+    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f3))
+    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595477))
+    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881da1))
+    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c2c))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6105,8 +6105,8 @@
     (property "Datasheet" "~" (at 226.695 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 545ca356-4afd-46a1-8ebc-c99e20c2020a))
     (pin "1" (uuid 6878b152-3040-40b3-8553-d15126da4df2))
+    (pin "2" (uuid 545ca356-4afd-46a1-8ebc-c99e20c2020a))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6131,16 +6131,16 @@
     (property "Datasheet" "~" (at 108.585 186.055 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "7" (uuid b392e48e-5b6d-4860-845a-435730be6832))
-    (pin "5" (uuid 697b5fc5-180e-479e-afde-2b4c2718bfcc))
-    (pin "3" (uuid 0049d659-174c-4fb2-a719-364ea81b8228))
-    (pin "8" (uuid fd0db56f-3699-41e8-bea2-46d2dd370d86))
-    (pin "6" (uuid 1c90ae1d-66dd-4a25-8e10-2f924f78d4cd))
-    (pin "9" (uuid de8b634f-54f0-4171-840a-6225e8405f8b))
-    (pin "10" (uuid d36870ea-6976-4790-b383-136e389ddded))
-    (pin "4" (uuid b9ec8b03-7492-4f46-839e-3136c2a2f8fb))
     (pin "1" (uuid 6b0722f1-e8d2-46d7-a3bd-1614ffae65ef))
+    (pin "10" (uuid d36870ea-6976-4790-b383-136e389ddded))
     (pin "2" (uuid 46168ff2-42fd-4b8a-8ba5-9fa8feb8806e))
+    (pin "3" (uuid 0049d659-174c-4fb2-a719-364ea81b8228))
+    (pin "4" (uuid b9ec8b03-7492-4f46-839e-3136c2a2f8fb))
+    (pin "5" (uuid 697b5fc5-180e-479e-afde-2b4c2718bfcc))
+    (pin "6" (uuid 1c90ae1d-66dd-4a25-8e10-2f924f78d4cd))
+    (pin "7" (uuid b392e48e-5b6d-4860-845a-435730be6832))
+    (pin "8" (uuid fd0db56f-3699-41e8-bea2-46d2dd370d86))
+    (pin "9" (uuid de8b634f-54f0-4171-840a-6225e8405f8b))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6190,10 +6190,10 @@
     (property "Datasheet" "~" (at 157.48 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "4" (uuid 34bd94be-5c68-47b1-9a56-403858f95491))
     (pin "1" (uuid 47518139-179c-4d37-860b-a960ca0422fd))
     (pin "2" (uuid 3d650445-911b-4b2f-97ee-0e536c9792f0))
     (pin "3" (uuid b382b191-5e12-4360-80f5-fbe32198edc5))
+    (pin "4" (uuid 34bd94be-5c68-47b1-9a56-403858f95491))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6218,8 +6218,8 @@
     (property "Datasheet" "~" (at 231.14 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid d98665af-c179-4efe-b1df-7950a95a8d6d))
     (pin "1" (uuid b66694e1-918b-4983-9bd2-c6848631f7e0))
+    (pin "2" (uuid d98665af-c179-4efe-b1df-7950a95a8d6d))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6371,8 +6371,8 @@
     (property "Datasheet" "~" (at 213.995 86.995 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 47061c8a-83b2-471b-920e-a9c7d6cab892))
     (pin "1" (uuid 41f7fa81-88bb-4e55-99de-56dea5a097b6))
+    (pin "2" (uuid 47061c8a-83b2-471b-920e-a9c7d6cab892))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6447,19 +6447,19 @@
     (property "Datasheet" "https://www.amphenol-cs.com/media/wysiwyg/files/drawing/rjmg1bd3b8k1anr.pdf" (at 255.27 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "R4" (uuid 91776c27-b1be-4278-a9b0-5198e50b01c6))
-    (pin "R3" (uuid 56d7434b-4bb3-47fa-b76b-029de0125747))
-    (pin "R5" (uuid 23fc06c4-d335-4daf-a5e2-340969bcde52))
-    (pin "R7" (uuid 5b7dc097-6c69-4548-8b7b-f11403936d6e))
-    (pin "L4" (uuid 9f53ab76-598c-425a-a297-67bdf1107451))
     (pin "L1" (uuid e2a0ad81-1b53-4c87-98ee-298f62c90e7f))
     (pin "L2" (uuid 8235400a-b4fb-46b4-b7ee-e64abb86a1d4))
-    (pin "R6" (uuid 75a85e2a-01c3-4b94-b53e-62c0ed612ed2))
-    (pin "R8" (uuid 5d4fb92f-8387-4cc4-8954-2170b2519f13))
+    (pin "L3" (uuid 63440ebc-b2e3-4a19-9e9f-d60a364daf92))
+    (pin "L4" (uuid 9f53ab76-598c-425a-a297-67bdf1107451))
     (pin "R1" (uuid 0bec04aa-bb4a-4ffc-b9f3-b4f1f52882ac))
     (pin "R2" (uuid 1c42c531-13bf-426e-a1e9-968ca0638945))
+    (pin "R3" (uuid 56d7434b-4bb3-47fa-b76b-029de0125747))
+    (pin "R4" (uuid 91776c27-b1be-4278-a9b0-5198e50b01c6))
+    (pin "R5" (uuid 23fc06c4-d335-4daf-a5e2-340969bcde52))
+    (pin "R6" (uuid 75a85e2a-01c3-4b94-b53e-62c0ed612ed2))
+    (pin "R7" (uuid 5b7dc097-6c69-4548-8b7b-f11403936d6e))
+    (pin "R8" (uuid 5d4fb92f-8387-4cc4-8954-2170b2519f13))
     (pin "SH" (uuid 1d078817-5f90-4c63-a163-201a18ff2ae5))
-    (pin "L3" (uuid 63440ebc-b2e3-4a19-9e9f-d60a364daf92))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6509,9 +6509,9 @@
     (property "Datasheet" "https://www.onsemi.cn/PowerSolutions/document/MC7800-D.PDF" (at 172.085 33.655 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (pin "1" (uuid 348e8331-c2df-4ff2-b59e-c65a29c25d4a))
     (pin "2" (uuid 7850985a-8265-47f0-b532-3ae6fe449e25))
     (pin "3" (uuid 5635220e-007c-41aa-84d5-14144a44690b))
-    (pin "1" (uuid 348e8331-c2df-4ff2-b59e-c65a29c25d4a))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6586,20 +6586,20 @@
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS32" (at 265.43 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f0))
-    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881d9e))
-    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c29))
-    (pin "1" (uuid e885684f-304f-4797-8782-b765172933bf))
-    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f8830d))
-    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af69))
-    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0403))
-    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3685))
-    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbded6))
-    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f683))
-    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fccf))
-    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a455))
-    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595474))
-    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df77))
+    (pin "1" (uuid e885684f-304f-4797-8782-b765172933c3))
+    (pin "2" (uuid a1bb6322-3ba2-48cb-b1ad-3cf3cff2af6d))
+    (pin "3" (uuid 12020deb-d34b-418c-ba2a-6ae45de6df7b))
+    (pin "4" (uuid 70c635a9-3e73-4f13-a60f-3464f329f687))
+    (pin "5" (uuid 7fe56412-5608-438b-a066-7d7214f88311))
+    (pin "6" (uuid 4c15176e-b454-4393-a5e2-ef9d4aaa3689))
+    (pin "10" (uuid 7d1a0d6e-24c4-473d-a574-e87eaa7d0407))
+    (pin "8" (uuid 9959be88-41fe-4c70-9bc7-37f260a5a459))
+    (pin "9" (uuid 151ed754-c06d-46cd-8320-60d47cdbdeda))
+    (pin "11" (uuid ec67f14c-5825-4e19-8e4b-1a8859f7fcd3))
+    (pin "12" (uuid b134cc0b-2f7a-4b82-a1b4-f1ac4cbaf4f4))
+    (pin "13" (uuid bbc083e1-d505-4eb4-b1e2-60b833595478))
+    (pin "14" (uuid 789b6ade-6a9a-44d5-a098-ddfbf6881da2))
+    (pin "7" (uuid fb83119e-3736-4d7d-b81b-7bb5b9489c2d))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6700,8 +6700,8 @@
     (property "Datasheet" "~" (at 190.5 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid eb199825-0e5b-4370-bbd8-e5d342e13631))
     (pin "1" (uuid 33895911-e98b-4659-ae48-87b71429255b))
+    (pin "2" (uuid eb199825-0e5b-4370-bbd8-e5d342e13631))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6726,8 +6726,8 @@
     (property "Datasheet" "~" (at 40.64 111.125 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 5b48d1b2-a2c8-4f43-8194-e95c7b250234))
     (pin "1" (uuid 768aa491-3379-4c90-9ab5-852fab456ec7))
+    (pin "2" (uuid 5b48d1b2-a2c8-4f43-8194-e95c7b250234))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6930,50 +6930,50 @@
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8272-8-bit-AVR-microcontroller-ATmega164A_PA-324A_PA-644A_PA-1284_P_datasheet.pdf" (at 68.58 107.315 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "30" (uuid 87c7b827-9227-4ee4-9950-3300f0db9f5d))
-    (pin "35" (uuid 4ff537c9-3916-424a-af5a-f003c37a55b6))
-    (pin "38" (uuid 352d3abb-b30d-4488-8aaa-bb7467c85eea))
-    (pin "25" (uuid 803fbfbb-5c16-4826-992b-85084b0d56e1))
-    (pin "15" (uuid 725bb336-ba2f-4e33-aad4-e03f9559fed9))
-    (pin "24" (uuid 4ae2067e-b57c-4ce1-90c3-19cacf512688))
-    (pin "37" (uuid d013faac-66a2-4e77-b8c7-4d368d00d7b6))
-    (pin "39" (uuid 99f760ab-039c-4db8-a077-5294bb09953e))
-    (pin "31" (uuid 136b6de6-3b9e-44fd-964a-95d44d8f9a6b))
-    (pin "26" (uuid 8b5a42df-e1bd-434d-9da8-c20c7dba205d))
-    (pin "4" (uuid 52aa368e-149d-4d38-be3c-340f3d1cb758))
-    (pin "12" (uuid 946077c8-6a3a-4991-98ec-779c54428c2a))
-    (pin "34" (uuid a195ef30-85b6-4339-a06b-7297f498b5b4))
-    (pin "9" (uuid 101758a3-0772-47f6-b9e1-cf66e17d92b4))
-    (pin "32" (uuid 94466646-f776-4f18-8ce0-c7b2c2ffc4e4))
+    (pin "1" (uuid 157e483b-9f4c-4caa-b199-2a97c2786b16))
+    (pin "10" (uuid 27fc1ae1-ce2c-4319-8649-5cd2493c51ef))
     (pin "11" (uuid e1a81899-c250-4d10-b2f4-cca7af4280f2))
+    (pin "12" (uuid 946077c8-6a3a-4991-98ec-779c54428c2a))
+    (pin "13" (uuid 011c8fc0-92ed-47a2-9f0b-9e5ac3764198))
+    (pin "14" (uuid 20886a3f-ea72-4439-8a42-825537f77b29))
+    (pin "15" (uuid 725bb336-ba2f-4e33-aad4-e03f9559fed9))
+    (pin "16" (uuid 2b048b64-1836-4ea0-ae7d-f75a6ace1ca0))
+    (pin "17" (uuid efb3dc6b-3927-47f0-b236-6bc7775ac4f7))
     (pin "18" (uuid 64c1f465-5e0d-478d-b2d1-a5d1517fef86))
     (pin "19" (uuid 34a03b07-4504-48be-bf97-5a5cfd86109d))
-    (pin "22" (uuid 17f949d3-c748-4a8a-956d-c5d300e5523e))
-    (pin "21" (uuid 94957f04-12d1-4505-8f4f-4aed0b5f55cd))
-    (pin "40" (uuid d22da538-0b4f-4c98-b2f5-1b05fff3e5e0))
-    (pin "29" (uuid c5ffb5e0-061a-4084-9367-fc875e0aef08))
-    (pin "1" (uuid 157e483b-9f4c-4caa-b199-2a97c2786b16))
-    (pin "17" (uuid efb3dc6b-3927-47f0-b236-6bc7775ac4f7))
-    (pin "13" (uuid 011c8fc0-92ed-47a2-9f0b-9e5ac3764198))
-    (pin "23" (uuid 6697f587-c2d9-4ebb-b2de-eeff68799f19))
-    (pin "3" (uuid 7ee6cbdb-2f8a-4ca5-ab9c-53838bb89e2c))
-    (pin "16" (uuid 2b048b64-1836-4ea0-ae7d-f75a6ace1ca0))
-    (pin "33" (uuid aced7a7d-1e44-42cd-9b40-1e24deea1897))
-    (pin "36" (uuid 89693c7d-52c7-4e53-afcc-bf3054c2ffba))
-    (pin "8" (uuid 93b36fa9-3fe9-4f7e-bc22-2db3cd4bb21e))
-    (pin "44" (uuid b6444988-3e11-418d-a0a3-3f13f479c6b7))
-    (pin "41" (uuid 86d7437e-ef08-4bd9-9c39-02bfbce961be))
-    (pin "5" (uuid ad0fcbcc-d4c6-43eb-ab4f-7895243166f9))
-    (pin "7" (uuid 4953dc79-e6c1-4e14-92be-2a5a8c607391))
     (pin "2" (uuid f3fbc8e9-ed54-424e-b27a-f25d0be5fc40))
-    (pin "43" (uuid d6059913-9d3a-4546-a31c-a7614ffc09b5))
-    (pin "42" (uuid 2b9f9ba0-ac34-4756-a9c4-6c466cfca32b))
-    (pin "14" (uuid 20886a3f-ea72-4439-8a42-825537f77b29))
-    (pin "6" (uuid 32e9651d-8ae4-4ebd-b09a-933d3f996831))
     (pin "20" (uuid 6b9952c5-2e39-472f-95f7-93653a9bf802))
-    (pin "10" (uuid 27fc1ae1-ce2c-4319-8649-5cd2493c51ef))
-    (pin "28" (uuid 5ebbbc2c-de55-4473-89cf-d9343631e05c))
+    (pin "21" (uuid 94957f04-12d1-4505-8f4f-4aed0b5f55cd))
+    (pin "22" (uuid 17f949d3-c748-4a8a-956d-c5d300e5523e))
+    (pin "23" (uuid 6697f587-c2d9-4ebb-b2de-eeff68799f19))
+    (pin "24" (uuid 4ae2067e-b57c-4ce1-90c3-19cacf512688))
+    (pin "25" (uuid 803fbfbb-5c16-4826-992b-85084b0d56e1))
+    (pin "26" (uuid 8b5a42df-e1bd-434d-9da8-c20c7dba205d))
     (pin "27" (uuid e54c24c2-3f1a-4752-9002-e5ccb069a990))
+    (pin "28" (uuid 5ebbbc2c-de55-4473-89cf-d9343631e05c))
+    (pin "29" (uuid c5ffb5e0-061a-4084-9367-fc875e0aef08))
+    (pin "3" (uuid 7ee6cbdb-2f8a-4ca5-ab9c-53838bb89e2c))
+    (pin "30" (uuid 87c7b827-9227-4ee4-9950-3300f0db9f5d))
+    (pin "31" (uuid 136b6de6-3b9e-44fd-964a-95d44d8f9a6b))
+    (pin "32" (uuid 94466646-f776-4f18-8ce0-c7b2c2ffc4e4))
+    (pin "33" (uuid aced7a7d-1e44-42cd-9b40-1e24deea1897))
+    (pin "34" (uuid a195ef30-85b6-4339-a06b-7297f498b5b4))
+    (pin "35" (uuid 4ff537c9-3916-424a-af5a-f003c37a55b6))
+    (pin "36" (uuid 89693c7d-52c7-4e53-afcc-bf3054c2ffba))
+    (pin "37" (uuid d013faac-66a2-4e77-b8c7-4d368d00d7b6))
+    (pin "38" (uuid 352d3abb-b30d-4488-8aaa-bb7467c85eea))
+    (pin "39" (uuid 99f760ab-039c-4db8-a077-5294bb09953e))
+    (pin "4" (uuid 52aa368e-149d-4d38-be3c-340f3d1cb758))
+    (pin "40" (uuid d22da538-0b4f-4c98-b2f5-1b05fff3e5e0))
+    (pin "41" (uuid 86d7437e-ef08-4bd9-9c39-02bfbce961be))
+    (pin "42" (uuid 2b9f9ba0-ac34-4756-a9c4-6c466cfca32b))
+    (pin "43" (uuid d6059913-9d3a-4546-a31c-a7614ffc09b5))
+    (pin "44" (uuid b6444988-3e11-418d-a0a3-3f13f479c6b7))
+    (pin "5" (uuid ad0fcbcc-d4c6-43eb-ab4f-7895243166f9))
+    (pin "6" (uuid 32e9651d-8ae4-4ebd-b09a-933d3f996831))
+    (pin "7" (uuid 4953dc79-e6c1-4e14-92be-2a5a8c607391))
+    (pin "8" (uuid 93b36fa9-3fe9-4f7e-bc22-2db3cd4bb21e))
+    (pin "9" (uuid 101758a3-0772-47f6-b9e1-cf66e17d92b4))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -6992,18 +6992,18 @@
     (property "Value" "AVR-ISP-6" (at 24.13 33.655 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x03_P1.00mm_Vertical" (at 26.67 32.385 90)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" (at 26.67 32.385 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (at 0.635 47.625 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 3e863c01-e6d5-498f-a42e-970a7c53932c))
-    (pin "6" (uuid d4823c90-08c7-4bff-84ab-cb855dbd308c))
     (pin "1" (uuid f562dae9-29f6-4f1c-ba54-6767f2962342))
-    (pin "5" (uuid 51bca8fe-8c87-436d-9aed-b4a54a2634da))
+    (pin "2" (uuid 3e863c01-e6d5-498f-a42e-970a7c53932c))
     (pin "3" (uuid 6bf6769a-083c-4a36-9ef7-49453352da03))
     (pin "4" (uuid d1cf8566-b134-46f5-97b5-566a7977e727))
+    (pin "5" (uuid 51bca8fe-8c87-436d-9aed-b4a54a2634da))
+    (pin "6" (uuid d4823c90-08c7-4bff-84ab-cb855dbd308c))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -7028,8 +7028,8 @@
     (property "Datasheet" "~" (at 207.01 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 82894492-d112-4e73-b84d-8c79b2a13d4f))
     (pin "1" (uuid 9c65a51a-5321-4e14-b448-3690b0447adb))
+    (pin "2" (uuid 82894492-d112-4e73-b84d-8c79b2a13d4f))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
@@ -7054,8 +7054,8 @@
     (property "Datasheet" "~" (at 158.75 41.275 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "2" (uuid 7d848c06-2818-41c8-884a-75804d6353a4))
     (pin "1" (uuid 98313d63-1d9e-42e1-91cd-8f73c33cbb47))
+    (pin "2" (uuid 7d848c06-2818-41c8-884a-75804d6353a4))
     (instances
       (project "ATmega1284EthernetController"
         (path "/762f64b3-0e3a-4bc7-bdbc-e4b9d45ad335"
